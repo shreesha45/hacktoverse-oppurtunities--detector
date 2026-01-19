@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "interests": ["internship", "ai", "machine learning", "research"]
+  },
+  {
+    "id": 2,
+    "name": "Sneha Kapoor",
+    "email": "sneha.kapoor@example.com",
+    "interests": ["job", "frontend", "react", "web development"]
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "interests": ["scholarship", "finance", "data analysis"]
+  },
+  {
+    "id": 4,
+    "name": "Priya Iyer",
+    "email": "priya.iyer@example.com",
+    "interests": ["internship", "backend", "nodejs", "api"]
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "interests": ["job", "devops", "cloud", "aws"]
+  },
+  {
+    "id": 6,
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "interests": ["scholarship", "ai", "deep learning", "research"]
+  },
+  {
+    "id": 7,
+    "name": "Kabir Joshi",
+    "email": "kabir.joshi@example.com",
+    "interests": ["internship", "python", "automation"]
+  },
+  {
+    "id": 8,
+    "name": "Isha Patil",
+    "email": "isha.patil@example.com",
+    "interests": ["job", "marketing", "sales", "digital marketing"]
+  },
+  {
+    "id": 9,
+    "name": "Aditya Deshmukh",
+    "email": "aditya.deshmukh@example.com",
+    "interests": ["scholarship", "robotics", "electronics"]
+  },
+  {
+    "id": 10,
+    "name": "Meera Nair",
+    "email": "meera.nair@example.com",
+    "interests": ["internship", "ui/ux", "design", "frontend"]
+  }
+]
