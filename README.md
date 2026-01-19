@@ -53,7 +53,8 @@ The system provides *real-time insights* using metrics, charts, and visual cards
 This project is a *Minimum Viable Product (MVP)* and is fully functional in a local environment.
 
 👉 *MVP / GitHub Repository:*  
-https://github.com/shreesha45/blind-opportunity-detector
+https://github.com/shreesha45/hacktoverse-oppurtunities--detector
+
 
 The repository contains:
 - Complete frontend and backend source code
